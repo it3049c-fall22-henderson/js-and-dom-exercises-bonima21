@@ -13,6 +13,7 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 ## Self-Evaluation: 
 (You may base this on the number of exercises you were able to complete)
 how many points out of 20 do you deserve on this assignment:
+20
 
 ## Self-Reflection:
 <!-- What did you learn that you found interesting -->
